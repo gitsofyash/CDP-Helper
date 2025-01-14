@@ -1,0 +1,21 @@
+{
+    "websites": {
+      "Segment": {
+        "url": "https://segment.com/docs/?ref=nav",
+        "keywords": ["segment", "integration", "tracking"]
+      },
+      "mParticle": {
+        "url": "https://docs.mparticle.com/",
+        "keywords": ["mparticle", "data", "customer engagement"]
+      },
+      "Lytics": {
+        "url": "https://docs.lytics.com/",
+        "keywords": ["lytics", "analytics", "data activation"]
+      },
+      "Zeotap": {
+        "url": "https://docs.zeotap.com/home/en-us/",
+        "keywords": ["zeotap", "customer intelligence", "data management"]
+      }
+    }
+  }
+  

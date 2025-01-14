@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore the base HTML template (if you don't want it to be tracked)
+templates/base.html
+
+# Ignore the virtual environment folder
+chatbot/
