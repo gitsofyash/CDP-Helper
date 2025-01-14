@@ -6,3 +6,5 @@ templates/base.html
 
 # Ignore the virtual environment folder
 chatbot/
+
+__pycache__

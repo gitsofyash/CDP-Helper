@@ -1,6 +1,6 @@
 # route/chatbot_route.py
 from flask import Blueprint, request, jsonify
-from model.test import answer_question_from_named_websites, websites
+from model.model import answer_question_from_named_websites, websites
 
 # Define a blueprint for the chatbot
 chatbot_bp = Blueprint('chatbot', __name__)
